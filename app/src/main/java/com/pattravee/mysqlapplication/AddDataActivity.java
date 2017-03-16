@@ -26,6 +26,7 @@ public class AddDataActivity extends AppCompatActivity {
                 todoListDAO.add(todoList);
                 todoListDAO.close();
                 finish();
+                finish();
             }
         }
 
